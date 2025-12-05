@@ -1,27 +1,17 @@
 <html>
 <head>
-<meta charset="utf-8">
+<meta charset="UTF-8">
+<style>
+h2 {color: blue ; }
+</style>
 </head>
 <body>
-                    <h1 style="color: red; text-align: center;"> GIỚI THIỆU BẢN THÂN  </b></h1>
-           <img scr="https://lh3.googleusercontent.com/gg-dl/ABS2GSmUYrAAq4i2xoh-4e4JCzAIvDi_4ciAlkOxSwEdvQDmQELiq9rhrOa1nklCAP3x3AbBA4DijQZlzeITwtct43fKU5TDjBfsPjblal3ekw2bUXABmBBlKYTt_kC533NPLW18F1hv4epxQqheH6bFPPQgEGcNxH7tyiTQFTUORovjBGJtXQ=s1024-rj
-   </body>  
- </html>" alt=" Ảnh đại diện " width"120" height+"180"
-<p><h2> Hi mội người mình là Quốc Minh
-      <table> 
-<td width="30%" style="text-align: center; vertical-align: top;">
-<img src="images/anhdaidien.png" width="180" height="270">
-     </td>
-<td>
-<h2 style="color: tomato;"> Sở thích </h2>
-đi chơi
-<h2 style="color: tomato;"> Sở trường </h2>
-viết nội dung
-<h2 style="color: tomato;"> Ước mơ </h2>
-           viết nội dung
-            </td>
-     </tr>
-</table>
+<h1 > GIỚI THIỆU BẢN THÂN </h1>
+<table>
+<tr>
+<td style="vertical-align: top; text-align: center" width="30%">
+<img src="unnamed.jpg" alt="Ảnh Đại diện" width="120" height="180"></td>
+<td>Nickname: Yor <br>Tuổi: 17 Dancer chuyên nghiệp của trường đại học Havard  <br>
+<h2 > Phông cách</h2> dancer hiphop gang gang cực cháy khét đét labubu "
 
-Bickname 
-<h2 style ="color: blue; "> Sở thích </h2>
+
