@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../style.css">
+  </head>
+  <body>
+    <ol type="A">
+      <b><li class="F4"> GIỚI THIỆU NGHỀ NGHIỆP MUỐN LÀM </li></b>
+       <UL class="F3">
+         <li> Muốn đậu vào trường sư phạm thành phố Hồ Chí Minh chuyên ngành sư phạm Tiếng Anh.  </li>
+         <li> Với nền tảng kiến thức chuyên môn vững vàng, kỹ năng giao tiếp chuyên nghiệp cùng tác phong chuẩn mực, tôi đảm bảo sẽ đào tạo các học trò thật tốt. Không chỉ trong việc học mà còn trong thái độ, nhân cách.</li>
+       </UL>
+      <b><li class="F4"> LÝ DO CHỌN NGHỀ NGHIỆP NÀY </li></b>
+       <UL class="F3">
+         <li> Muốn trở thành giáo viên Tiếng Anh vì yêu thích ngôn ngữ này và có khả năng truyền đạt tốt.  </li>
+  <iframe width="1013" height="570" src="https://www.youtube.com/embed/sjcGx5TYFVI?list=RDsjcGx5TYFVI" title="Học tiếng Anh qua bài hát - A LITTLE LOVE - Fiona Fung (Lyrics+Kara+Vietsub) - Thaki English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       </UL>
+    </ol>
+  </body>
+</html>
