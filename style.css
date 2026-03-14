@@ -6,7 +6,7 @@
 .header{
   flex:20%;
   aspect-ratio: 6/1;
-  background-color: Firebrick3;
+  background-color: LightSkyBlue;
   background: url("image/chồng.jpg") center;
 }
 .menu{
