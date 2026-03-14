@@ -6,7 +6,7 @@
 .header{
   flex:20%;
   aspect-ratio: 6/1;
-  background-color: PowderBlue ;
+  background-color: #99FFFF ;
   background: url("image/chồng.jpg") center;
 }
 .menu{
@@ -18,7 +18,7 @@
 }
 .menu a{
   padding: 15px 20px;
-  color: Navy;
+  color: #0033FF;
 }
 .menu a:hover{
   background-color: Brown;
@@ -36,7 +36,7 @@
 }
 .footer{
   flex:5%;
-  background-color: Navy;
+  background-color: #0033FF;
 }
 h1 {
   color: blue;
